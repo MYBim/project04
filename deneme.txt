@@ -1,2 +1,4 @@
 merhaba
 Atma ziyaaaaa
+test
+deneme remote
